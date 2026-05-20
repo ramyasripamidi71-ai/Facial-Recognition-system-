@@ -1,0 +1,7 @@
+### Intern Details
+**Name:** Ramya Sri Pamidi  
+**Intern ID:** CITS1340  
+**Domain:** Python Programming  
+**Internship:** CodTech IT Solution
+### Project Overview
+This is a basic Facial Recognition project using Python and OpenCV for CodTech internship. It detects faces from webcam or image using Haar Cascade classifier.
